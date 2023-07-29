@@ -1,6 +1,4 @@
 Hi2 day la push
-<<<<<<< HEAD
+
 Day la ow may
-=======
-Sua lan 1 o inter
->>>>>>> 48ada2f838d02d37796553f4e1df8a0803270a7b
+ 
